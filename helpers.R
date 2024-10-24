@@ -224,9 +224,9 @@ WAOBvals <- c(
   "4" = "Asia (POBP = 158-159,161,200-299)",
   "5" = "Europe (POBP = 100-157,160,162-199)"
 )
-
+#"Household language",
 #language values
-HHLvals <- c( #"Household language",
+HHLvals <- c( 
   "0" = "N/A (GQ/vacant)",
   "2" = "Spanish",
   "3" = "Other Indo-European languages",
